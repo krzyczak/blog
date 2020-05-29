@@ -245,5 +245,3 @@ Also if we list the current directory now we should see a new file called `out.c
 In the article, we explored how to build and run a simple, basic application using Apache Camel.
 
 There are multiple other ways to start a Camel application from scratch (eg. using the Maven Camel archetype or Camel Spring Boot archetype) but the purpose of this article was to show how to build Camel application from the ground up without using automatically generated code so that it is more understandable how are all the components wired together and how the Camel application works.
-
-The source code for the whole application can be found in the Github repository here: [https://github.com/krzyczak/CamelBeans](https://github.com/krzyczak/CamelBeans).

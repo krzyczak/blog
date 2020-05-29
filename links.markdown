@@ -16,3 +16,4 @@ IP Protection with blockchain:
 Other:
 1. [https://www.investopedia.com/news/blockchain-could-make-you-owner-data-privacy-selling-purchase-history/](https://www.investopedia.com/news/blockchain-could-make-you-owner-data-privacy-selling-purchase-history/)
 2. [https://www.youtube.com/watch?v=gUwXCt1qkBU](https://www.youtube.com/watch?v=gUwXCt1qkBU)
+3. [http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)

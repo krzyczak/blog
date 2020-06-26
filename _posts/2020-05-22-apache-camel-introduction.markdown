@@ -9,7 +9,7 @@ Apache Camel is an open-source software integration framework implementing the p
 
 The detailed description of the framework can be found on its [official website](https://camel.apache.org/manual/latest/faq/what-is-camel.html).
 
-In this tutorial we will have a look how to start a basic Camel project and what tools are available ... - what to add here????
+In this tutorial we will have a look how to start a basic Camel project and what tools are available.
 
 # Creating a Basic Apache Camel Project
 There are multiple ways of starting a new project using Apache Camel. We will first start with the simplest possible empty Java project and add Camel as a dependency. To do that, first we need to execute the following command:
